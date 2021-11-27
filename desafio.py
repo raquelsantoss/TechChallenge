@@ -1,4 +1,4 @@
-#Raquel dos Santos Rezende
+
 expression = str(input('Digite a expressão que será analisada:'))
 countParenthesesOpen = 0
 countParenthesesClose = 0
